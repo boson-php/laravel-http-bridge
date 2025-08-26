@@ -16,8 +16,8 @@
     ],
     "require": {
         "php": "^8.4",
-        "boson-php/http": "^0.17",
-        "boson-php/symfony-http-bridge": "^0.17",
+        "boson-php/http": "^0.18",
+        "boson-php/symfony-http-bridge": "^0.18",
         "illuminate/http": "^12.0"
     },
     "autoload": {
@@ -35,8 +35,8 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "0.17.x-dev",
-            "dev-main": "0.17.x-dev"
+            "dev-master": "0.18.x-dev",
+            "dev-main": "0.18.x-dev"
         }
     },
     "config": {
